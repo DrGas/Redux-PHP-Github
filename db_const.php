@@ -1,6 +1,6 @@
 <?php
-	const HOST = 'localhost';
-	const USER = 'root';
-	const PASS = '';
-	const NAME = 'php_redux';
+	const DB_HOST = 'localhost';
+	const DB_USER = 'root';
+	const DB_PASS = '';
+	const DB_NAME = 'php_redux';
 ?>
