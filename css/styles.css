@@ -11,6 +11,7 @@ header {
 	-moz-border-radius: 10px;
 	border-radius: 10px;
 	background-color: white;
+	font-style: blue;
 }
 .hint {
 	font-family: 'Maven Pro', sans-serif, Helvetica, Arial, sans-serif;
