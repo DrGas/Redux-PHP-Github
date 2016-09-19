@@ -33,7 +33,7 @@ $connection->set_charset("utf8");  ?>
 		 while($jokes = $jokesdata->fetch_assoc()){
 			echo '<!-- single Chuck Norris joke start -->
 			<div class="joke">
-					<img src="' . $jokes['img'] . '" class="norris_pic" alt="Chuck Norris caricature"/>
+					<img src="' . $jokes['img'] . '" class="joke-img" alt="Chuck Norris caricature"/>
 					<h2>' . $jokes['joke'] .  '</h2>	       
             </div>';
 			echo '<!-- single joke end -->'; }

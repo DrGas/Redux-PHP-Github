@@ -28,9 +28,12 @@ header {
 	-moz-box-shadow: 10px 10px 5px 0px rgba(235,228,235,1);
 	box-shadow: 10px 10px 5px 0px rgba(235,228,235,1);
 	background-color: white;
+	height: 200px;
 }
-.joke img {
+.joke-img {
 	float: left;
 	margin-right: 20px;
+	height: 200px;
+	width: 150px;
 }
 
